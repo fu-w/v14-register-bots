@@ -1,0 +1,25 @@
+{
+"tag":"tagınız",
+"sunucu":"sunucuid"
+    ,
+"register_kanal":"kanalid",
+"register_yetkilisi":"rolid"
+,
+"kayıtsız":"rolid",
+"kayıtsız_isim":"İsim yaş"
+,
+
+"genelchat":"kanalid",
+"taglog":"kanalid",
+"tagrol":"rolid"
+,
+"erkekrol1":"rolid",
+"erkekrol2":"rolid"
+,
+"kızrol1":"rolid",
+"kızrol2":"rolid",
+
+"vip":"rolid",
+"viptag":"viptag"
+
+}

@@ -1,0 +1,19 @@
+{
+  "name": "v14-furki-register",
+  "version": "1.0.0",
+  "description": "Furki Tarafından Yapılan Bu Bot Sıfırdan Yazılan Kodlardan Yapıldı ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Furki#0001",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "nrc.db": "^2.1.0"
+  }
+}
