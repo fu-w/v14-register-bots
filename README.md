@@ -20,3 +20,5 @@ ____________________________________________________________
 ![image](https://user-images.githubusercontent.com/74312970/201516550-350bd96a-c4da-4b89-bf9e-873f4906c746.png)
 
 ____________________________________________________________
+
+<a href="https://top.gg/bot/934458405563809832"> <img src="https://top.gg/api/widget/upvotes/934458405563809832.svg?noavatar=true"> </a>
